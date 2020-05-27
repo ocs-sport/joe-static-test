@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      tagline: "OCS nuxtjs website test"
+      tagline: "OCS nuxtjs website test for Lee."
     };
   }
 };
