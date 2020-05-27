@@ -9,7 +9,7 @@
           </h3>
           <small>{{ post.date | dateformat }}</small>
           <div v-html="post.excerpt.rendered"></div>
-          <a :href="`blog/${post.slug}`" class="readmore slide">Read more ⟶</a>
+          <a :href="`blog/${post.slug}`" class="readmore slide">Read more here ⟶</a>
         </div>
       </main>
       <aside>
