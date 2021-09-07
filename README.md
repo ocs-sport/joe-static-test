@@ -2,7 +2,7 @@
 
 > _A quick template to get you started using Headless WordPress_
 
-### Deploy this Template
+### Deploy this Template (netlify). We still need to work on Digital Ocean Apps platform deploy. 
 
 Click the "Deploy to Netlify" button, and you can configure it to fit your needs.
 
